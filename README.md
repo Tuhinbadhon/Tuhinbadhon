@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" />
-### Hi there 👋
+
+
 
 <!--
 **Tuhinbadhon/Tuhinbadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
