@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" />
 ### Hi there 👋
 
 <!--
