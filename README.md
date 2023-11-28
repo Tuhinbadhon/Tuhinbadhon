@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/W1hd3uXRIbddu/giphy.gif?cid=ecf05e47wdooxzxest3jxu9ttj83mvb8mq3j2vnep5xh3a9e&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="277" src="https://media4.giphy.com/media/W1hd3uXRIbddu/giphy.gif?cid=ecf05e47wdooxzxest3jxu9ttj83mvb8mq3j2vnep5xh3a9e&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
