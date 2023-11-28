@@ -16,6 +16,7 @@
 ###
 
 <h2 align="left">About me</h2>
+<img align = "right" height="150" border-radius: 10px src="https://media1.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=ecf05e472dysdmlto6dxufnzpaoby2hd0i9bc9k1u0nyrxu0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" />
 
 ###
 
