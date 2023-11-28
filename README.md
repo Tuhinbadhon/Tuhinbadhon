@@ -14,17 +14,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tuhinbadhon.Tuhinbadhon&"  />
 
 ###
-
+<div>
 <h2 align="left">About me</h2>
-<img align="right" height="150" style="border: 1px solid #ccc; border-radius: 50%;" src="https://media1.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=ecf05e472dysdmlto6dxufnzpaoby2hd0i9bc9k1u0nyrxu0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" />
+
+<p >I am a noob Software Developer</p>
+<img align="right" height="150" src=https://media1.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47kvwom2v2h4wdacq5j6ba6u6g6iu6tblrs9q3v9ja&ep=v1_gifs_related&rid=giphy.gif&ct=g alt="" />
+
+</div>
 
 
 ###
-
-<p align="left">I am a noob Software Developer</p>
-
-###
-
+<br clear="both">
 <h2 align="left">I code with</h2>
 
 ###
