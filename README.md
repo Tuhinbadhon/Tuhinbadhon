@@ -32,7 +32,7 @@
 
 ###
 
-<h1 align="center">hey Bro 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
