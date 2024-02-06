@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fazlul-haque-059273220/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/fazlul-haque-059273220/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCjIYyb2Eh1DjN2L2OvSUc3Q" target="_blank">
