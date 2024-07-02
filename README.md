@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img height="277" src="https://i.ibb.co/G3CcMYN/building-webpage.gif"  />
+  <img height="277" src="https://i.ibb.co/b119DKK/200w.gif"  />
 <!--  <img src="" align="right" width="320" height="240"> -->
 
 </div>
