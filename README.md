@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img height="277" src="https://media4.giphy.com/media/W1hd3uXRIbddu/giphy.gif?cid=ecf05e47wdooxzxest3jxu9ttj83mvb8mq3j2vnep5xh3a9e&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="277" src="https://i.ibb.co/G3CcMYN/building-webpage.gif"  />
+<!--  <img src="" align="right" width="320" height="240"> -->
+
 </div>
 
 ###
@@ -32,7 +34,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Md. Fazlul Haque</h1>
 
 ###
 
@@ -40,7 +42,13 @@
 
 ###
 
-<p align="left">- 🔭 I’m freaking web Developer</p>
+<p align="left">- 🔭 A passionate Web App developer from Bangladesh.</p>
+<p align="left">- 🌱 I’m currently learning Web App Developing with MERN</p>
+<p align="left">- 👯 I’m looking to collaborate on web app developing projects</p>
+<p align="left">- 💬 Ask me about MERN</p>
+<p align="left">- 📫 How to reach me tuhinbadhon@gmail.com</p>
+
+
 
 ###
 
@@ -69,6 +77,8 @@
 <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+<img width="12" />
 
   
 
@@ -80,6 +90,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuhinbadhon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuhinbadhon&show_icons=true&locale=en&theme=dark&hide_border=false&order=2" alt="tuhinbadhon" /></p>
   <img src="https://streak-stats.demolab.com?user=Tuhinbadhon&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
