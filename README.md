@@ -90,8 +90,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuhinbadhon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuhinbadhon&show_icons=true&locale=en&theme=dark&hide_border=false&order=2" alt="tuhinbadhon" /></p>
+
   <img src="https://streak-stats.demolab.com?user=Tuhinbadhon&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
