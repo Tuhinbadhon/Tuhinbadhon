@@ -40,7 +40,7 @@
 <!-- Frontend Mastery -->
 <h3 align="left" style="color: #00C4FF;">🚀 Frontend Mastery</h3>
 <ul>
-  <li><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Tailwind</strong>, and <strong>JavaScript</strong></li>
+  <li><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Tailwind</strong>, and <strong>JavaScript</strong>,<strong>material UI</strong>,<strong>Shadcn/ui</strong>,<strong>Next.js</strong>,<strong>TypeScript</strong>,<strong>Redux</strong></li>
   <li>Expertise in <strong>React.js</strong> for building dynamic and responsive interfaces</li>
 </ul>
 
@@ -78,9 +78,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 </br>
+
 <!-- Stats and Streaks -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuhinbadhon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
