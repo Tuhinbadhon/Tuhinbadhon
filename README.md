@@ -1,5 +1,5 @@
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" />
+/* <img src="https://raw.githubusercontent.com/Tuhinbadhon/Tuhinbadhon/output/snake.svg" alt="Snake animation" /> */
 
 <!-- Centralized GIF -->
 <div align="center">
