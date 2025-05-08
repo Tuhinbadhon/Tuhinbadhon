@@ -8,19 +8,19 @@
 
 <!-- Social Media Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-fazlul-haque-bd" target="_blank">
+  <a href="https://www.linkedin.com/in/md-fazlul-haque-bd" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.youtube.com/channel/UCjIYyb2Eh1DjN2L2OvSUc3Q" target="_blank">
+  <a href="https://www.youtube.com/channel/UCjIYyb2Eh1DjN2L2OvSUc3Q" target="blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.facebook.com/tuhinbadhon" target="_blank">
+  <a href="https://www.facebook.com/tuhinbadhon" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:tuhinbadhon@gmail.com" target="_blank">
+  <a href="mailto:tuhinbadhon@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://t.me/fazlulhaque04" target="_blank">
+  <a href="https://t.me/fazlulhaque04" target="blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
