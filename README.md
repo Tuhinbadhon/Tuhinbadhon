@@ -38,7 +38,7 @@
 <p>
   I'm a dedicated <strong>Full-Stack Developer</strong> with a passion for both frontend finesse and backend power. My journey started with the <strong>MERN stack</strong>, and now I'm also building impactful solutions with <strong>PHP</strong> and the <strong>Laravel framework</strong>.
   <br/><br/>
-  I love turning complex problems into clean and maintainable code. Whether it's crafting elegant interfaces with <strong>React</strong> and <strong>Tailwind</strong>, managing APIs with <strong>Node.js</strong> or <strong>Laravel</strong>, or optimizing databases with <strong>MongoDB</strong> and <strong>MySQL</strong> — I’m always up for the challenge.
+  I love turning complex problems into clean and maintainable code. Whether it's crafting elegant interfaces with <strong>React</strong> and <strong>Tailwind</strong>, managing APIs with <strong>Node.js</strong> or <strong>Laravel</strong>, or <strong>Python</strong> or optimizing databases with <strong>MongoDB</strong> and <strong>MySQL</strong> — I’m always up for the challenge.
 </p>
 
 <!-- Frontend Mastery -->
