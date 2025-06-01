@@ -59,7 +59,7 @@
 <!-- Collaboration & Tooling -->
 <h3 align="left" style="color: #8A2BE2;">🔗 Collaboration & Advanced Tooling</h3>
 <ul>
-  <li><strong>Git</strong>, <strong>GitHub</strong> — version control & collaborative development</li>
+  <li><strong>Git</strong>, <strong>GitHub</strong>, <strong>Sublime Merge</strong> — version control & collaborative development</li>
   <li><strong>JWT</strong> — secure authentication</li>
   <li><strong>Axios</strong>, <strong>Postman</strong> — API requests & testing</li>
   <li><strong>Tanstack Query</strong> — frontend state and server data management</li>
