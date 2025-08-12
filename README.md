@@ -3,7 +3,7 @@
 
 <!-- Centralized GIF -->
 <div align="center">
-  <img height="160" src="https://i.ibb.co.com/FqNxDwhy/cute-cat-1.gif" />
+  <img height="200" src="https://i.ibb.co.com/FqNxDwhy/cute-cat-1.gif" />
 </div>
 
 <!-- Social Media Badges -->
