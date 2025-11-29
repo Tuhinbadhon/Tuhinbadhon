@@ -6,21 +6,22 @@
   <img height="200" src="https://i.ibb.co.com/kV2TzhY3/newcat-1.gif" />
 </div>
 
+
 <!-- Social Media Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-fazlul-haque-bd" target="blank">
+  <a href="https://www.linkedin.com/in/md-fazlul-haque-bd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.youtube.com/channel/UCjIYyb2Eh1DjN2L2OvSUc3Q" target="blank">
+  <a href="https://www.youtube.com/channel/UCjIYyb2Eh1DjN2L2OvSUc3Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.facebook.com/tuhinbadhon" target="blank">
+  <a href="https://www.facebook.com/tuhinbadhon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:tuhinbadhon@gmail.com" target="blank">
+  <a href="mailto:tuhinbadhon@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://t.me/fazlulhaque04" target="blank">
+  <a href="https://t.me/fazlulhaque04" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
@@ -36,46 +37,50 @@
 <!-- About Me -->
 <h3 align="left">👨‍💻 About Me</h3>
 <p>
-  I'm a dedicated <strong>Full-Stack Developer</strong> with a passion for both frontend finesse and backend power. My journey started with the <strong>MERN stack</strong>, and now I'm also building impactful solutions with <strong>PHP</strong> and the <strong>Laravel framework</strong>.
+  I'm a passionate <strong>Full-Stack Web Developer</strong> with experience building scalable, performant, and maintainable web applications. My expertise spans frontend interfaces and backend systems, and I thrive on transforming complex problems into elegant, functional, and user-centric solutions.
   <br/><br/>
-  I love turning complex problems into clean and maintainable code. Whether it's crafting elegant interfaces with <strong>React</strong> and <strong>Tailwind</strong>, managing APIs with <strong>Node.js</strong> or <strong>Laravel</strong>, or <strong>Python</strong> or optimizing databases with <strong>MongoDB</strong> and <strong>MySQL</strong> — I’m always up for the challenge.
+  I specialize in React.js, Next.js, Tailwind CSS, TypeScript, and Redux on the frontend, and Node.js, Express.js, PHP, Laravel, MongoDB, and MySQL on the backend. I also explore Python for automation and AI integration.
 </p>
 
 <!-- Frontend Mastery -->
 <h3 align="left" style="color: #00C4FF;">🚀 Frontend Mastery</h3>
 <ul>
-  <li><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Tailwind</strong>, <strong>Material UI</strong>, <strong>Shadcn/UI</strong></li>
+  <li><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Tailwind CSS</strong>, <strong>Material UI</strong>, <strong>Shadcn/UI</strong></li>
   <li><strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Redux</strong></li>
 </ul>
 
 <!-- Backend Expertise -->
 <h3 align="left" style="color: #FFA500;">🛠 Backend Expertise</h3>
 <ul>
-  <li><strong>Node.js</strong>, <strong>Express.js</strong> — scalable REST APIs and backend logic</li>
-  <li><strong>PHP</strong>, <strong>Laravel</strong> — elegant MVC structure and modern backend solutions</li>
+  <li><strong>Node.js</strong>, <strong>Express.js</strong> — scalable REST APIs and server-side logic</li>
+  <li><strong>PHP</strong>, <strong>Laravel</strong> — secure, high-performance MVC backends</li>
   <li><strong>MongoDB</strong>, <strong>MySQL</strong> — efficient database design and optimization</li>
 </ul>
 
-<!-- Collaboration & Tooling -->
-<h3 align="left" style="color: #8A2BE2;">🔗 Collaboration & Advanced Tooling</h3>
+<h3 align="left" style="color: #8A2BE2;">🔗 Collaboration & Advanced Workflow</h3>
 <ul>
-  <li><strong>Git</strong>, <strong>GitHub</strong>, <strong>Sublime Merge</strong> — version control & collaborative development</li>
-  <li><strong>JWT</strong> — secure authentication</li>
-  <li><strong>Axios</strong>, <strong>Postman</strong> — API requests & testing</li>
-  <li><strong>Tanstack Query</strong> — frontend state and server data management</li>
+  <li>CI/CD Automation: GitHub Actions, CircleCI for streamlined deployment</li>
+  <li>Testing: Playwright, Cypress, Jest for end-to-end and unit testing</li>
+  <li>Containerization & Mono-repo: Docker, Docker Compose, Turborepo/Nx</li>
+  <li>ORMs: TypeORM, Prisma, Eloquent — for structured and maintainable database interactions</li>
+  <li>API & Documentation: Postman, Swagger/OpenAPI</li>
+  <li>Caching & Queues: Redis, RabbitMQ/BullMQ for performance optimization</li>
+  <li>Cloud Deployment: AWS, Vercel, DigitalOcean</li>
+  <li>Security: JWT, OAuth, best practices for secure applications</li>
+  <li>Team Collaboration: Git, GitHub, Agile methodology, code reviews</li>
 </ul>
 
 <!-- Currently Exploring -->
 <h3 align="left" style="color: #32CD32;">🌱 Currently Exploring</h3>
 <p>
-  Diving deeper into <strong>Python</strong> and its applications in <strong>Artificial Intelligence</strong> and exploring how to integrate intelligent systems with web technologies.
+  Diving deeper into <strong>Python</strong> and its applications in <strong>AI/ML</strong>, integrating intelligent systems with web technologies.
 </p>
 
 <!-- Call to Action -->
 <h3 align="center" style="color: #FFD700;">✨ Let's collaborate to transform your ideas into impactful digital experiences!</h3>
 
 <!-- Language and Tools -->
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
@@ -87,9 +92,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="PHP" />
@@ -104,3 +108,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuhinbadhon&layout=compact&theme=dracula&langs_count=5" height="150" />
   <img src="https://streak-stats.demolab.com?user=Tuhinbadhon&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
+
+
