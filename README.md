@@ -52,7 +52,7 @@
 <!-- Backend Expertise -->
 <h3 align="left" style="color: #FFA500;">🛠 Backend Expertise</h3>
 <ul>
-  <li><strong>Node.js</strong>, <strong>Express.js</strong> — scalable REST APIs and server-side logic</li>
+  <li><strong>Node.js</strong>,<strong>Nest.js</strong>, <strong>Express.js</strong> — scalable REST APIs and server-side logic</li>
   <li><strong>PHP</strong>, <strong>Laravel</strong> — secure, high-performance MVC backends</li>
   <li><strong>MongoDB</strong>, <strong>MySQL</strong> — efficient database design and optimization</li>
 </ul>
