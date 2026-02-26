@@ -105,7 +105,7 @@
 <!-- Stats and Streaks -->
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuhinbadhon&layout=compact&theme=dracula&langs_count=5" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tuhinbadhon&theme=dracula" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Tuhinbadhon&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
 
