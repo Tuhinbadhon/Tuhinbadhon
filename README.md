@@ -28,7 +28,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tuhinbadhon.Tuhinbadhon" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fazlulhaque-dev.fazlulhaque-dev" alt="visitor badge" />
 </div>
 
 <!-- Title -->
@@ -105,8 +105,8 @@
 <!-- Stats and Streaks -->
 <br/>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tuhinbadhon&theme=dracula" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Tuhinbadhon&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="220" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulhaque-dev&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=fazlulhaque-dev&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
 
 
