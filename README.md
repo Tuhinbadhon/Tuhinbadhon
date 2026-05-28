@@ -1,4 +1,4 @@
- <!-- Snake Animation -->
+<!-- Snake Animation -->
 <!--  <img src="https://raw.githubusercontent.com/fazlulhaque-dev/fazlulhaque-dev/output/snake.svg" alt="Snake animation" />  -->
 
 
@@ -109,5 +109,4 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulhaque-dev&theme=dracula" height="150"/>
   <img src="https://streak-stats.demolab.com?user=fazlulhaque-dev&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
-
 
