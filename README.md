@@ -1,4 +1,4 @@
-<!-- Snake Animation -->
+ <!-- Snake Animation -->
 <!--  <img src="https://raw.githubusercontent.com/fazlulhaque-dev/fazlulhaque-dev/output/snake.svg" alt="Snake animation" />  -->
 
 
